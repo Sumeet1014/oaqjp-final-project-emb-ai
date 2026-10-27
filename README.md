@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 ## Project Overview
 This project detects emotions expressed in text using IBM Watson Natural Language Processing services.
@@ -19,7 +19,7 @@ This project detects emotions expressed in text using IBM Watson Natural Languag
 
 ## Project Structure
 ```text
-emotion-detector/
+oaqjp-final-project-emb-ai/
 ├── EmotionDetection/
 │   ├── __init__.py
 │   ├── emotion_detection.py
@@ -29,7 +29,7 @@ emotion-detector/
 ```
 
 ## How to Run
-Install the required dependencies, configure the emotion detection service, and run the Flask application using Python.
+Install the required dependencies and run the Flask application using Python.
 
 ## Testing
 Unit tests are included to validate the emotion detection functionality and error handling.
